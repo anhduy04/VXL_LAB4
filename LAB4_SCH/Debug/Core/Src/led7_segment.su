@@ -1,0 +1,4 @@
+led7_segment.c:10:6:display7SEG1	16	static
+led7_segment.c:110:6:display7SEG2	16	static
+led7_segment.c:212:6:update7SEG1	24	static
+led7_segment.c:233:6:update7SEG2	24	static

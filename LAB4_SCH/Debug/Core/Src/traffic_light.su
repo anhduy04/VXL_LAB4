@@ -1,0 +1,5 @@
+traffic_light.c:10:6:clearAllLed	8	static
+traffic_light.c:20:6:setLedRed1_Green2	8	static
+traffic_light.c:30:6:setLedRed1_Yellow2	8	static
+traffic_light.c:40:6:setLedGreen1_Red2	8	static
+traffic_light.c:50:6:setLedYellow1_Red2	8	static
